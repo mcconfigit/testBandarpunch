@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
-    uuid="_58r0EFICEeiKDdQ6oAOb1A" name="Component1">
+    uuid="_58r0EFICEeiKDdQ6oAOb1A" name="AA">
   <geometry deletable="false" uuid="_58r0EVICEeiKDdQ6oAOb1A"
       name="root">
     <parentPlugs uuid="_58r0ElICEeiKDdQ6oAOb1A" name="ParentPlug"/>
