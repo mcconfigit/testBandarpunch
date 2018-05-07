@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
-    uuid="_I0rx0FH9EeiKDdQ6oAOb1A" name="A">
-  <geometry deletable="false" uuid="_I0rx0VH9EeiKDdQ6oAOb1A"
+    uuid="_HNNO8FIDEeiKDdQ6oAOb1A" name="Component2">
+  <geometry deletable="false" uuid="_HNNO8VIDEeiKDdQ6oAOb1A"
       name="root">
-    <parentPlugs uuid="_I0rx0lH9EeiKDdQ6oAOb1A" name="ParentPlug"/>
+    <parentPlugs uuid="_HNNO8lIDEeiKDdQ6oAOb1A" name="ParentPlug"/>
   </geometry>
 </comp:Component>
