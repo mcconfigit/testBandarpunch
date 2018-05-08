@@ -10,6 +10,8 @@
     <domain uuid="_j7ZZ0VKUEeiKDdQ6oAOb1A" name="local"
         visibility="300">
       <typeSet uuid="_j7ZZ0lKUEeiKDdQ6oAOb1A" bitSet="393231"/>
+      <values uuid="_ncavEFLMEeiPhJ6e6G8ccQ" name="Val1"
+          editable="false" visibility="300"/>
     </domain>
   </variables>
   <role uuid="_qucXoHAAEeSk24oMIozLgA" name="insertfree"
