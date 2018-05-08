@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_I0rx0FH9EeiKDdQ6oAOb1A" name="AA">
   <calculation uuid="_5QvsUFLMEeiPhJ6e6G8ccQ" name="Calculation_Rules"
@@ -8,6 +9,11 @@
   </calculation>
   <geometry deletable="false" uuid="_I0rx0VH9EeiKDdQ6oAOb1A"
       name="root">
+    <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_WFZRgFLPEeiPhJ6e6G8ccQ"
+        name="Interactive_SVG" checksum="63c82facab275e4f7a77dc8dfbee38e5ac585e66">
+      <translation uuid="_WFZRgVLPEeiPhJ6e6G8ccQ"/>
+      <file href="../../model.build#_VCfDAFLPEeiPhJ6e6G8ccQ"/>
+    </twoDElement>
     <parentPlugs uuid="_I0rx0lH9EeiKDdQ6oAOb1A" name="ParentPlug"/>
   </geometry>
 </comp:Component>
