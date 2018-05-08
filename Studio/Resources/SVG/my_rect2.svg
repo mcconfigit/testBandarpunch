@@ -35,7 +35,14 @@
        y="1006.1906"
        id="rect2985"
        style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51170534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
+     <rect
+       width="22.211458"
+       height="43.112652"
+       x="30.9610682"
+       y="1006.1906"
+       id="rect2985"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.51170534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+	<path
        d="m 51.785713,70.755035 a 6.25,11.607142 0 1 1 -12.5,0 6.25,11.607142 0 1 1 12.5,0 z"
        transform="matrix(1.1451282,0,0,1.4108134,-35.164198,928.59836)"
        id="path2987"

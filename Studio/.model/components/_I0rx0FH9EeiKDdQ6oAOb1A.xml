@@ -14,6 +14,11 @@
       <translation uuid="_WFZRgVLPEeiPhJ6e6G8ccQ"/>
       <file href="../../model.build#_uCN3AFLPEeiPhJ6e6G8ccQ"/>
     </twoDElement>
+    <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_aZGQcFLREeiPhJ6e6G8ccQ"
+        name="Interactive_SVG1" checksum="a6ae72102036fb0e905afd546c09d21d043c04e6">
+      <translation uuid="_aZGQcVLREeiPhJ6e6G8ccQ"/>
+      <file href="../../model.build#_VCfDAFLPEeiPhJ6e6G8ccQ"/>
+    </twoDElement>
     <parentPlugs uuid="_I0rx0lH9EeiKDdQ6oAOb1A" name="ParentPlug"/>
   </geometry>
 </comp:Component>
