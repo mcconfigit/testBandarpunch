@@ -10,9 +10,9 @@
   <geometry deletable="false" uuid="_I0rx0VH9EeiKDdQ6oAOb1A"
       name="root">
     <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_WFZRgFLPEeiPhJ6e6G8ccQ"
-        name="Interactive_SVG" checksum="63c82facab275e4f7a77dc8dfbee38e5ac585e66">
+        name="Interactive_SVG" checksum="6df1239c31663f629047871594dc5b49a396ce99">
       <translation uuid="_WFZRgVLPEeiPhJ6e6G8ccQ"/>
-      <file href="../../model.build#_VCfDAFLPEeiPhJ6e6G8ccQ"/>
+      <file href="../../model.build#_jhkiwFLPEeiPhJ6e6G8ccQ"/>
     </twoDElement>
     <parentPlugs uuid="_I0rx0lH9EeiKDdQ6oAOb1A" name="ParentPlug"/>
   </geometry>
